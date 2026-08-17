@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 900" role="img" aria-labelledby="t d">
+<title id="t">VARSHI multilingual intelligence loop</title><desc id="d">Multilingual input flows through understanding and reasoning into action.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fbf8f2"/><stop offset="1" stop-color="#f3eadf"/></linearGradient>
+ <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff" stop-opacity=".86"/><stop offset="1" stop-color="#f8f0e6" stop-opacity=".72"/></linearGradient>
+ <filter id="sh" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#5c5144" flood-opacity=".12"/></filter>
+ <filter id="soft"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1200" height="900" rx="54" fill="url(#bg)"/>
+<circle cx="600" cy="450" r="300" fill="none" stroke="#b8a995" stroke-opacity=".22"/><circle cx="600" cy="450" r="225" fill="none" stroke="#b8a995" stroke-opacity=".25"/><circle cx="600" cy="450" r="150" fill="none" stroke="#b8a995" stroke-opacity=".28"/>
+<circle cx="600" cy="450" r="105" fill="#fff" fill-opacity=".62" stroke="#fff" stroke-width="2" filter="url(#sh)"/>
+<circle cx="600" cy="450" r="86" fill="#f9f2e8" stroke="#d8cbbb"/>
+<path d="M555 410 L590 472 Q600 490 612 470 L647 410" fill="none" stroke="#151412" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="600" y="548" text-anchor="middle" fill="#756b60" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">UNDERSTAND · REASON · ACT</text>
+<g filter="url(#sh)"><rect x="70" y="275" width="310" height="350" rx="34" fill="url(#glass)" stroke="#fff" stroke-width="2"/></g>
+<circle cx="105" cy="310" r="32" fill="#f8f1e8" stroke="#ddcfbf"/><path d="M90 310v-12m8 24v-36m8 29v-22m8 30v-38m8 28v-18" stroke="#1d1b18" stroke-width="4" stroke-linecap="round"/>
+<text x="130" y="316" fill="#8a7356" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">1. INPUT</text>
+<text x="105" y="370" fill="#151412" font-family="Arial,sans-serif" font-size="26" font-weight="600">Multilingual Input</text>
+<text x="105" y="408" fill="#6e665d" font-family="Arial,sans-serif" font-size="18">Speak or type naturally.</text>
+<g font-family="Arial,sans-serif" font-size="24" text-anchor="middle" fill="#1b1917"><rect x="105" y="455" width="58" height="44" rx="17" fill="#fff" stroke="#e3d8ca"/><text x="134" y="485">A</text><rect x="176" y="455" width="58" height="44" rx="17" fill="#fff" stroke="#e3d8ca"/><text x="205" y="485">文</text><rect x="247" y="455" width="58" height="44" rx="17" fill="#fff" stroke="#e3d8ca"/><text x="276" y="485">அ</text><rect x="318" y="455" width="45" height="44" rx="17" fill="#fff" stroke="#e3d8ca"/><text x="340" y="483">•••</text></g>
+<path d="M105 558h9v-12h7v24h7v-35h7v51h7v-31h7v18h7v-42h7v61h7v-47h7v32h7v-20h7v38h7v-55h7v72h7v-42h7v27h7v-16h7v31h7v-25h7v39h7v-58h7v67h7v-36h7v24h7v-14h7v28h7" stroke="#191715" stroke-width="3" fill="none" opacity=".8"/>
+<g filter="url(#sh)"><rect x="825" y="160" width="300" height="270" rx="34" fill="url(#glass)" stroke="#fff" stroke-width="2"/><rect x="825" y="525" width="300" height="245" rx="34" fill="url(#glass)" stroke="#fff" stroke-width="2"/></g>
+<circle cx="855" cy="195" r="32" fill="#f8f1e8" stroke="#ddcfbf"/><path d="M843 198c0-10 5-17 12-17s12 7 12 17c0 8-5 16-12 21-7-5-12-13-12-21z" fill="none" stroke="#1b1917" stroke-width="2"/><path d="M855 181v37M843 197h24" stroke="#1b1917" stroke-width="2"/>
+<text x="900" y="200" fill="#8a7356" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">2. UNDERSTANDING</text><text x="860" y="258" fill="#151412" font-family="Arial,sans-serif" font-size="25" font-weight="600">Understand &amp; Reason</text><text x="860" y="296" fill="#6e665d" font-family="Arial,sans-serif" font-size="17">Context, intent and nuance.</text>
+<g transform="translate(860 332)" fill="none" stroke="#171513" stroke-width="2"><circle cx="15" cy="15" r="11"/><path d="M23 23l10 10"/><circle cx="85" cy="8" r="5"/><circle cx="115" cy="16" r="5"/><circle cx="93" cy="35" r="5"/><path d="M89 11l22 4M112 21L97 31M90 30l-2-17"/><circle cx="172" cy="16" r="12"/><path d="M172 0v-7M172 39v-7M156 16h-7M195 16h-7"/></g>
+<circle cx="855" cy="560" r="32" fill="#f8f1e8" stroke="#ddcfbf"/><path d="M864 541l-17 19h11l-9 20 22-24h-12z" fill="#171513"/>
+<text x="900" y="565" fill="#8a7356" font-family="Arial,sans-serif" font-size="14" letter-spacing="2">3. ACTION</text><text x="860" y="620" fill="#151412" font-family="Arial,sans-serif" font-size="25" font-weight="600">Action &amp; Output</text><text x="860" y="658" fill="#6e665d" font-family="Arial,sans-serif" font-size="17">Answers, results and actions.</text>
+<g transform="translate(860 692)" stroke="#171513" fill="none" stroke-width="2"><circle cx="15" cy="15" r="13"/><path d="M8 15l5 5 10-12M52 15h22M68 9l7 6-7 6"/><rect x="100" y="2" width="28" height="28" rx="4"/><path d="M106 10h16M106 16h16M106 22h12M156 15h22M172 9l7 6-7 6"/><path d="M205 26h30c11 0 13-15 3-18-2-11-18-12-22-2-9-4-16 9-11 20z"/></g>
+<path d="M380 450C450 450 460 450 495 450" fill="none" stroke="#fff" stroke-width="6"/><path d="M380 450C450 450 460 450 495 450" fill="none" stroke="#cdbdaa" stroke-width="1.5"/><circle cx="380" cy="450" r="7" fill="#fff" stroke="#d7c8b7"/><circle cx="495" cy="450" r="7" fill="#fff" stroke="#d7c8b7"/>
+<path d="M705 430C760 430 760 295 825 295" fill="none" stroke="#fff" stroke-width="6"/><path d="M705 430C760 430 760 295 825 295" fill="none" stroke="#cdbdaa" stroke-width="1.5"/><path d="M705 485C765 485 770 648 825 648" fill="none" stroke="#fff" stroke-width="6"/><path d="M705 485C765 485 770 648 825 648" fill="none" stroke="#cdbdaa" stroke-width="1.5"/>
+<circle cx="705" cy="430" r="7" fill="#fff" stroke="#d7c8b7"/><circle cx="705" cy="485" r="7" fill="#fff" stroke="#d7c8b7"/>
+<g fill="#c7b49c" opacity=".55"><circle cx="180" cy="150" r="3"/><circle cx="200" cy="150" r="3"/><circle cx="220" cy="150" r="3"/><circle cx="180" cy="170" r="3"/><circle cx="200" cy="170" r="3"/><circle cx="220" cy="170" r="3"/><circle cx="1010" cy="96" r="3"/><circle cx="1030" cy="96" r="3"/><circle cx="1050" cy="96" r="3"/></g>
+</svg>
