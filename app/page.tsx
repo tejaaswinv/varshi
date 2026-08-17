@@ -113,7 +113,7 @@ export default function Home() {
         </div>
 
         <div className="hero-visual panel" data-reveal>
-          <img src="/hero-loop-branded.webp" alt="Ivory product diagram showing multilingual input, understanding and action orchestration." />
+          <img src="/hero-loop-v2.svg" alt="Ivory product diagram showing multilingual input, understanding and action orchestration." />
         </div>
       </section>
 
@@ -126,7 +126,7 @@ export default function Home() {
       <section id="product" className="feature section-pad">
         <div className="shell split split-image-left">
           <div className="media-card panel" data-reveal>
-            <img src="/people-world-branded.webp" alt="Ivory illustrated panel showing everyday people, multilingual communication, daily usefulness and global reach." />
+            <img src="/people-world-v2.svg" alt="Ivory illustrated panel showing everyday people, multilingual communication, daily usefulness and global reach." />
           </div>
           <div className="copy-block" data-reveal>
             <div className="eyebrow">PRODUCT DIRECTION</div>
@@ -167,7 +167,7 @@ export default function Home() {
             </ul>
           </div>
           <div className="media-card panel dark-panel" data-reveal>
-            <img src="/global-voices-branded.webp" alt="Ivory visual showing people around the world connected through multilingual speech and translation." />
+            <img src="/global-voices-v2.svg" alt="Ivory visual showing people around the world connected through multilingual speech and translation." />
           </div>
         </div>
       </section>
@@ -175,7 +175,7 @@ export default function Home() {
       <section id="system" className="feature section-pad">
         <div className="shell split split-image-left">
           <div className="media-card panel" data-reveal>
-            <img src="/orchestration-diagram-branded.webp" alt="Ivory system diagram showing speech, reasoning, action, memory, tools, privacy and deployment orchestrated around a central runtime." />
+            <img src="/orchestration-v2.svg" alt="Ivory system diagram showing speech, reasoning, action, memory, tools, privacy and deployment orchestrated around a central runtime." />
           </div>
           <div className="copy-block" data-reveal>
             <div className="eyebrow">SYSTEM</div>
